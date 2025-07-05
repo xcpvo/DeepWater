@@ -1,0 +1,10 @@
+numpy==2.2.6
+pyaudio==0.2.14
+joblib==1.5.1
+requests
+pyautogui==0.9.54
+keyboard==0.13.5
+customtkinter==5.2.2
+pillow==11.2.1
+scikit-learn==1.6.1
+sklearn-compat==0.1.3
